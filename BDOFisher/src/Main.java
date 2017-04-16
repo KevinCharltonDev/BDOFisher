@@ -11,7 +11,6 @@ public class Main extends JFrame {
 	}
 
 	public static void main(String[] args) throws AWTException {
-		// TODO Auto-generated method stub
 		new Main();
 	}
 
